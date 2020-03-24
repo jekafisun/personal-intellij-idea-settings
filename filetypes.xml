@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="story" approved="true" type="JBehave Story" />
+      <mapping pattern="AdobeAnalytcisRecipes.feature" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping ext="story" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <removed_mapping ext="story" approved="true" type="JBehave Story" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Maven.ExecuteGoal">
+        <abbreviation name="mvn" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

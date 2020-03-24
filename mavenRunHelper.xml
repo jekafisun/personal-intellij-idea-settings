@@ -1,0 +1,47 @@
+<application>
+  <component name="MavenRunHelper">
+    <option name="goals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=delhaize.be -Dtest.config=dev1-smoke" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=ab.gr -Dtest.config=dev1-smoke" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=mega-image.ro -Dtest.config=dev1-smoke" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=maxi.rs -Dtest.config=dev1-smoke" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=delhaize.be -Dtest.config=dev2-smoke" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=ab.gr -Dtest.config=dev2-smoke" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=mega-image.ro -Dtest.config=dev2-smoke" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="generate-resources -Dbanner=maxi.rs -Dtest.config=dev2-smoke" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+    <option name="pluginAwareGoals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="allure:report" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+  </component>
+</application>

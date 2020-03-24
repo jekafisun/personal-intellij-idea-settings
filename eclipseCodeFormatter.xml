@@ -1,0 +1,12 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="5530" />
+        <option name="firstUsage" value="1544004809728" />
+        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
+        <option name="lastNaggingDate" value="1548833189343" />
+      </DonationNagger>
+    </option>
+  </component>
+</application>
